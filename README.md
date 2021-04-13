@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in learning new lanuages
+- 🌱 I’m currently learning Python with sub modules of pandas, numpy, and mysql.
+- 💞️ I’m looking to collaborate on database and/or any project to improve my coding.
+- 📫 You can reach me @ ChristopherrMcDonald@outlook.com
